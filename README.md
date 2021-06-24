@@ -1,4 +1,4 @@
-### Hi there 👋, I am Wei-Chih Chern 
+<!-- ### Hi there 👋, I am Wei-Chih Chern 
 
 
 ## Current Projects
@@ -11,4 +11,4 @@
  - Project #2: Glacier Faces Detection with Radar Images | 1/2020 - Now
     - Dr. Haritashya
     - Dr. Asari, Vision Lab
-
+ -->
